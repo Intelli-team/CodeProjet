@@ -1,0 +1,17 @@
+C:\Mes projets\MyExAppTest_Courrendlin\MyExAppTest_Courrendlin\bin\Release\MyExAppTest_Courrendlin.dll
+C:\Mes projets\MyExAppTest_Courrendlin\MyExAppTest_Courrendlin\bin\Release\MyExAppTest_Courrendlin.pdb
+C:\Mes projets\MyExAppTest_Courrendlin\MyExAppTest_Courrendlin\bin\Release\itextsharp.dll
+C:\Mes projets\MyExAppTest_Courrendlin\MyExAppTest_Courrendlin\bin\Release\Ops.dll
+C:\Mes projets\MyExAppTest_Courrendlin\MyExAppTest_Courrendlin\bin\Release\PosCommonClasses.dll
+C:\Mes projets\MyExAppTest_Courrendlin\MyExAppTest_Courrendlin\bin\Release\PosCore.dll
+C:\Mes projets\MyExAppTest_Courrendlin\MyExAppTest_Courrendlin\bin\Release\PosManagedDevices.dll
+C:\Mes projets\MyExAppTest_Courrendlin\MyExAppTest_Courrendlin\bin\Release\TotalPosting.dll
+C:\Mes projets\MyExAppTest_Courrendlin\MyExAppTest_Courrendlin\bin\Release\SimphonyUtilities.dll
+C:\Mes projets\MyExAppTest_Courrendlin\MyExAppTest_Courrendlin\bin\Release\Configuration.dll
+C:\Mes projets\MyExAppTest_Courrendlin\MyExAppTest_Courrendlin\bin\Release\Microsoft.PointOfService.dll
+C:\Mes projets\MyExAppTest_Courrendlin\MyExAppTest_Courrendlin\bin\Release\itextsharp.xml
+C:\Mes projets\MyExAppTest_Courrendlin\MyExAppTest_Courrendlin\obj\Release\MyExAppTest_Courrendlin.csprojAssemblyReference.cache
+C:\Mes projets\MyExAppTest_Courrendlin\MyExAppTest_Courrendlin\obj\Release\MyExAppTest_Courrendlin.csproj.CoreCompileInputs.cache
+C:\Mes projets\MyExAppTest_Courrendlin\MyExAppTest_Courrendlin\obj\Release\MyExAppTest_Courrendlin.csproj.CopyComplete
+C:\Mes projets\MyExAppTest_Courrendlin\MyExAppTest_Courrendlin\obj\Release\MyExAppTest_Courrendlin.dll
+C:\Mes projets\MyExAppTest_Courrendlin\MyExAppTest_Courrendlin\obj\Release\MyExAppTest_Courrendlin.pdb
